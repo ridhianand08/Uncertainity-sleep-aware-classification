@@ -60,5 +60,5 @@ The model classifies sleep into five stages: Wake (W), N1, N2, N3, and REM.
 - Predictive uncertainty and confidence estimation.
 - Robustness analysis under different input conditions.
 
-## ⚠️ Disclaimer
+##  Disclaimer
 This project is developed for academic and research purposes. It is a research prototype and is not intended for clinical diagnosis or medical decision-making.
